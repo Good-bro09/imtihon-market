@@ -1,0 +1,58 @@
+.title {
+  text-align: center;
+  font-size: 20px;
+  background-color: rgba(178, 73, 230, 0.493);
+  border-radius: 10px;
+  border: 3px red solid;
+}
+.color {
+  color: brown;
+}
+.css {
+  color: green;
+}
+.html {
+  color: red;
+}
+.tesla {
+  color: yellow;
+}
+.BMW {
+  color: green;
+}
+.base {
+  color: grey;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+.text {
+  text-align: center;
+}
+.tablitsa {
+  background-color: yellow;
+  margin: 0;
+  width: 735px;
+}
+.test {
+  background-color: red;
+}
+
+.model {
+  background-color: rgb(225, 87, 225);
+}
+.cssColor {
+  background-color: green;
+}
+.color2 {
+  background-color: greenyellow;
+  font-size: 25px;
+}
+.Button{
+    font-size: 20px;
+    background-color: greenyellow;
+}
